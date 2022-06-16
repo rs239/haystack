@@ -6,9 +6,6 @@ Haystack is described in the bioRxiv preprint, Optimal transport analysis of sin
 
 <kbd><img src="https://cb.csail.mit.edu/cb/haystack/haystack_graphical_abstract_v1.png"></kbd>
 
-
-![](https://cb.csail.mit.edu/cb/haystack/haystack_graphical_abstract_v1.png)
-
 ## Usage
 
 Coming soon...
