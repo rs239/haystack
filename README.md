@@ -4,6 +4,8 @@ The explosive growth of single-cell transcriptomics (scRNA-seq) has made it conv
 
 Haystack is described in the bioRxiv preprint, Optimal transport analysis of single-cell transcriptomics directs hypotheses prioritization and validation by Rohit Singh*, Joshua Li*, Sudhir Tattikota*, Yifang Liu, Jun Xu, Yanhui Hu, Norbert Perrimon, and Bonnie Berger.
 
+![](https://cb.csail.mit.edu/cb/haystack/haystack_graphical_abstract_v1.png)
+
 ## Usage
 
 Coming soon...
